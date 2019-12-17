@@ -1,5 +1,6 @@
 package ngram
 
+// Ngram expects the n-gram value(1, 2, 3 and so on) and the word
 func NGram(n int, value string) []string {
         nGrams := []string{}
 	var index int
