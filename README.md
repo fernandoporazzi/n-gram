@@ -4,7 +4,9 @@ Get [n-grams](https://en.wikipedia.org/wiki/N-gram) in Golang.
 
 ## Installation
 
-`$ go get -u github.com/fernandoporazzi/n-gram`
+```bash
+$ go get -u github.com/fernandoporazzi/n-gram
+```
 
 ## Usage
 
